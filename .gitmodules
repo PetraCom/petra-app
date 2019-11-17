@@ -1,0 +1,6 @@
+[submodule "petra"]
+	path = petra
+	url = https://github.com/PetraCom/petra
+[submodule "petra_backend"]
+	path = petra_backend
+	url = https://github.com/PetraCom/petra_backend
