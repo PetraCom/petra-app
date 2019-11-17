@@ -1,16 +1,17 @@
-# Petra - pet tracker (app + device)
+# Petra - pet tracker
+#### Mobile APP + bluetooth pet tracker = Happy pet & pet owner
 
 ## Links
 
 Backend - https://github.com/PetraCom/petra_backend
+
 Frontend - https://github.com/PetraCom/petra
+
 Presentation - https://drive.google.com/drive/folders/1qDIu-_0S7XY0Hc7AKtLUb9hR-nz66aVL?usp=sharing
 
-## Your pet will never be lost again.
+## Your pet will never be lost again
 
 If your pet leaves a safe area, Petra will send you an alert with your pet’s exact location in real time. 
-
-#### Mobile APP + bluetooth pet tracker = Happy pet & pet owner
 
 ## Petra beacon
 
@@ -38,7 +39,7 @@ Data analytics for:
 1. Stores for animals
 1. Veterinary blades
 
-#### Statistic 600,000 dogs 700,000 cats
+#### Statistic: 600,000 dogs & 700,000 cats
 
 ## Market in Helsinki
 
